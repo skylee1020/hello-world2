@@ -12,8 +12,8 @@ public class GreetingNew
    //-----------------------------------------------------------------
    public static void main (String[] args)
    {
-     System.out.println("Hello Lee Lee Park Park!");
-      System.out.println("Hello Park Chanho! ");
-      System.out.println("Hello Park Chanho from V3! ");
+      System.out.println("Hello Lee Lee Park Park!");
+      System.out.println("Hello Park Chanho, from V2!");
+      System.out.println("Hello Park Chanho from V3!");      
    }
 }
